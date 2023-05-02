@@ -3,7 +3,8 @@ import "./MainPage.css";
 
 const MainPage = () => {
     return (
-        <div className="main">
+        <div className="main container">
+            <div className="test"></div>
         </div>
     );
 };
