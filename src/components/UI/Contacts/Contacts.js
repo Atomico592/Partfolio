@@ -3,7 +3,20 @@ import React from 'react';
 const Contacts = () => {
     return (
         <div>
-                <p>test</p>
+            <ul>
+                <li>
+                    <link rel="stylesheet" href=""/>
+                </li>
+                <li>
+                    <link rel="stylesheet" href=""/>
+                </li>
+                <li>
+                    <link rel="stylesheet" href=""/>
+                </li>
+
+
+
+            </ul>
         </div>
     );
 };

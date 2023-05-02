@@ -9,7 +9,6 @@
 }
 
 .test {
-    border: 1px solid red;
-    background: beige;
+    background: rgb(105,105,105);
     padding-bottom: 25px;
 }
