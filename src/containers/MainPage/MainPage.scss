@@ -1,0 +1,22 @@
+.main {
+    margin-top: 100px;
+    height: 700px;
+    background: rgba(24,24,24, 0.2);
+    -webkit-box-shadow: 0 5px 10px 2px rgba(240, 244, 247, 0.5);
+    -moz-box-shadow: 0 5px 10px 2px rgba(240, 244, 247, 0.5);
+    box-shadow: 0 5px 10px 2px rgba(240, 244, 247, 0.5);
+    display: flex;
+    &-title {
+            font-size: 110px;
+            margin: auto;
+            color: white;
+            opacity: 1;
+        &:hover {
+            padding: 15px;
+            background: black;
+            border: none;
+        }
+    }
+}
+
+
